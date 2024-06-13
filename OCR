@@ -1,2 +1,3 @@
 echo "your code here" > OCR_code.py
+rm OCR/OCR_code.py
 
