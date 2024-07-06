@@ -9,7 +9,7 @@ This repository contains multiple projects organized into different folders. Bel
 ## Test API
 - Postman
 
-## Libraries
+## Techonology 
 - Flutter
 - Dart
 - Django
